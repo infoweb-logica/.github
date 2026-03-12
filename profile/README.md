@@ -14,7 +14,7 @@
 
 | #    | Data       | Nota |
 | ---- | ---------- | ---- |
-| 1.01 | 12/03/2026 | **1o bimestre**<br />[Apresentação da disciplina](https://github.dev/infoweb-logica/01-notas_de_aula-apresentacao/) |
+| 1.01 | 12/03/2026 | **1o bimestre**<br />[Apresentação da disciplina](https://github.com/infoweb-logica/01-notas_de_aula-apresentacao/) |
 | 1.02 | 17/03/2026 | [Compute it](https://github.com/infoweb-logica/02-notas_de_aula-ComputeIt/) |
 | 1.03 | 19/03/2026 | a definir |
 | 1.04 | 24/03/2026 | a definir |

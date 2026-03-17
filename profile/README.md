@@ -9,6 +9,14 @@
   - **turma b** terças 10h30 as 12h00 / quintas 10h30 as 12h00
 - **período**: 2026
 
+---
+
+## Links
+
+- [jogos desenvolvidos em infoweb](https://github.com/infoweb-logica/introducao_pygame)
+- Notas de aula sobre [python](python) e FIXME pygame
+
+---
 
 ## Calendário
 

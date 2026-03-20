@@ -14,7 +14,7 @@
 ## Links
 
 - [jogos desenvolvidos em infoweb](https://github.com/infoweb-logica/introducao_pygame)
-- Notas de aula sobre [python](https://github.com/infoweb-logica/python) e [pygame](pygame)
+- Notas de aula sobre [python](https://github.com/infoweb-logica/python) e [pygame]([pygame](https://github.com/infoweb-logica/pygame)
 
 ---
 

@@ -26,7 +26,7 @@
 | 1.02 | 17/03/2026 | [Compute it](https://github.com/infoweb-logica/02-notas_de_aula-ComputeIt/) |
 | 1.03 | 19/03/2026 | [introdução a python](https://github.com/infoweb-logica/03-notas_de_aula-01-python) |
 | 1.04 | 24/03/2026 | [variáveis e operações aritméticas](https://github.com/infoweb-logica/04-notas_de_aula-02-python)<br />[lista de exercícios](https://github.com/infoweb-logica/04-notas_de_aula-02-python/blob/main/lista.md) |
-| 1.05 | 26/03/2026 | :pushpin: _avaliação_ :one:.:one: presencial |
+| 1.05 | 26/03/2026 | :pushpin: [avaliação :one:.:one: presencial](https://github.com/infoweb-logica/2026-1-01-Atividade_Avaliativa) |
 | 1.06 | 28/03/2026 | **sábado**<br />[algumas funções matemáticas em python](https://github.com/infoweb-logica/05-notas_de_aula-03-python)<br />[lista de exercícios](https://github.com/infoweb-logica/05-notas_de_aula-03-python/blob/main/lista.md) |
 | 1.07 | 31/03/2026 | correção e entrega da avaliação |
 | 1.08 | 07/04/2026 | [operadores lógicos e relacionais](https://github.com/infoweb-logica/05-notas_de_aula-03-python)<br />[lista de exercícios](https://github.com/infoweb-logica/05-notas_de_aula-03-python/blob/main/lista.md) |

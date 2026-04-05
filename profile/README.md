@@ -32,9 +32,9 @@
 | 1.08 | 07/04/2026 | [operadores lógicos e relacionais](https://github.com/infoweb-logica/06-notas_de_aula-04-python)<br />[lista de exercícios](https://github.com/infoweb-logica/06-notas_de_aula-04-python/blob/main/lista.md) |
 | 1.09 | 09/04/2026 | [Estrutura de seleção](https://github.com/infoweb-logica/07-notas_de_aula-05-python)<br />[lista de exercícios](https://github.com/infoweb-logica/07-notas_de_aula-05-python/blob/main/lista.md) |
 | 1.10 | 11/04/2026 | **sábado**<br />[Depuração](https://github.com/infoweb-logica/08-notas_de_aula-06-python) |
-| 1.11 | 14/04/2026 | a definir |
-| 1.12 | 16/04/2026 | a definir |
-| 1.13 | 23/04/2026 | a definir |
+| 1.11 | 14/04/2026 | Programação com Dojo |
+| 1.12 | 16/04/2026 | Estrutura de repetição com while para contar e acumular |
+| 1.13 | 23/04/2026 | Programação com Dojo |
 | 1.14 | 28/04/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
 | 1.15 | 30/04/2026 | correção e entrega da avaliação |
 | 1.16 | 02/05/2026 | **sábado**<br />a definir |

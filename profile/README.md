@@ -30,8 +30,8 @@
 | 1.06 | 28/03/2026 | **sábado**<br />[algumas funções matemáticas em python](https://github.com/infoweb-logica/05-notas_de_aula-03-python)<br />[lista de exercícios](https://github.com/infoweb-logica/05-notas_de_aula-03-python/blob/main/lista.md) |
 | 1.07 | 31/03/2026 | correção e entrega da avaliação |
 | 1.08 | 07/04/2026 | [operadores lógicos e relacionais](https://github.com/infoweb-logica/06-notas_de_aula-04-python)<br />[lista de exercícios](https://github.com/infoweb-logica/06-notas_de_aula-04-python/blob/main/lista.md) |
-| 1.09 | 09/04/2026 | a definir |
-| 1.10 | 11/04/2026 | **sábado**<br />a definir |
+| 1.09 | 09/04/2026 | [Estrutura de seleção](https://github.com/infoweb-logica/07-notas_de_aula-05-python)<br />[lista de exercícios](https://github.com/infoweb-logica/07-notas_de_aula-05-python/blob/main/lista.md) |
+| 1.10 | 11/04/2026 | **sábado**<br />[Depuração](https://github.com/infoweb-logica/08-notas_de_aula-06-python) |
 | 1.11 | 14/04/2026 | a definir |
 | 1.12 | 16/04/2026 | a definir |
 | 1.13 | 23/04/2026 | a definir |

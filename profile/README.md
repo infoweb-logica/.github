@@ -39,7 +39,7 @@
 | 1.15 | 30/04/2026 | Programação da lista de exercício [for](https://github.com/infoweb-logica/11-notas_de_aula-09-python/blob/main/lista.md) |
 | 1.16 | 02/05/2026 | **sábado**<br />Programação da lista de exercício [for](https://github.com/infoweb-logica/11-notas_de_aula-09-python/blob/main/lista.md) |
 | 1.17 | 05/05/2026 | [Funções](https://github.com/infoweb-logica/12-notas_de_aula-10-python) |
-| 1.18 | 07/05/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
+| 1.18 | 07/05/2026 | :pushpin: [_avaliação_ :one:.:two: presencial](https://github.com/infoweb-logica/2026-1-02-Atividade_Avaliativa) |
 | 1.19 | 12/05/2026 | correção e entrega da avaliação |
 | 1.20 | 14/05/2026 | **fim do 1o bimestre**<br />entrega de resultado do bimestre |
 | 2.01 | 19/05/2026 | **2o bimestre** |

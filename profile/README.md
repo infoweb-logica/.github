@@ -42,9 +42,9 @@
 | 1.18 | 07/05/2026 | :pushpin: [_avaliação_ :one:.:two: presencial](https://github.com/infoweb-logica/2026-1-02-Atividade_Avaliativa) |
 | 1.19 | 12/05/2026 | correção e entrega da avaliação |
 | 1.20 | 14/05/2026 | **fim do 1o bimestre**<br />entrega de resultado do bimestre |
-| 2.01 | 19/05/2026 | **2o bimestre** |
-| 2.02 | 21/05/2026 | a definir |
-| 2.03 | 23/05/2026 | **sábado**<br />a definir |
+| 2.01 | 19/05/2026 | **2o bimestre**<br />programação |
+| 2.02 | 21/05/2026 | [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python) |
+| 2.03 | 23/05/2026 | **sábado**<br />programação |
 | 2.04 | 26/05/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
 | 2.05 | 28/05/2026 | correção e entrega da avaliação |
 | 2.06 | 02/06/2026 | a definir |

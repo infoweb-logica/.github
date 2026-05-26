@@ -45,9 +45,9 @@
 | 2.01 | 19/05/2026 | **2o bimestre**<br />programação |
 | 2.02 | 21/05/2026 | [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python) |
 | 2.03 | 23/05/2026 | **sábado**<br />programação |
-| 2.04 | 26/05/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
-| 2.05 | 28/05/2026 | correção e entrega da avaliação |
-| 2.06 | 02/06/2026 | a definir |
+| 2.04 | 26/05/2026 | Programação da lista de exercício [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python/blob/main/lista.md) |
+| 2.05 | 28/05/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
+| 2.06 | 02/06/2026 | correção e entrega da avaliação |
 | 2.07 | 09/06/2026 | a definir |
 | 2.08 | 11/06/2026 | a definir |
 | 2.09 | 13/06/2026 | **sábado**<br />a definir |

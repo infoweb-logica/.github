@@ -48,19 +48,19 @@
 | 2.04 | 26/05/2026 | Programação da lista de exercício [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python/blob/main/lista.md) |
 | 2.05 | 28/05/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
 | 2.06 | 02/06/2026 | correção e entrega da avaliação |
-| 2.07 | 09/06/2026 | a definir |
-| 2.08 | 11/06/2026 | a definir |
-| 2.09 | 13/06/2026 | **sábado**<br />a definir |
-| 2.10 | 16/06/2026 | a definir |
-| 2.11 | 18/06/2026 | a definir |
-| 2.12 | 20/06/2026 | **sábado**<br />a definir |
-| 2.13 | 23/06/2026 | a definir |
-| 2.14 | 25/06/2026 | a definir |
-| 2.15 | 30/06/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
-| 2.16 | 02/07/2026 | correção e entrega da avaliação |
-| 2.17 | 07/07/2026 | a definir |
-| 2.18 | 09/07/2026 | a definir |
-| 2.19 | 14/07/2026 | a definir |
+| 2.07 | 09/06/2026 | programando exercícios |
+| 2.08 | 11/06/2026 | programando exercícios |
+| 2.09 | 13/06/2026 | **sábado**<br />programando exercícios |
+| 2.10 | 16/06/2026 | programando exercícios |
+| 2.11 | 18/06/2026 | programando exercícios |
+| 2.12 | 20/06/2026 | **sábado**<br />programando exercícios |
+| 2.13 | 23/06/2026 | programando exercícios |
+| 2.14 | 25/06/2026 | programando exercícios |
+| 2.15 | 30/06/2026 | programando exercícios |
+| 2.16 | 02/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
+| 2.17 | 07/07/2026 | correção e entrega da avaliação |
+| 2.18 | 09/07/2026 | wtec |
+| 2.19 | 14/07/2026 | :pushpin: _avaliação_ :two:.:three: presencial |
 | 2.20 | 16/07/2026 | **fim do 2o bimestre**<br />entrega de resultado do bimestre |
 | 3.01 | 11/08/2026 | **3o bimestre** |
 | 3.02 | 13/08/2026 | a definir |

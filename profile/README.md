@@ -48,11 +48,11 @@
 | 2.04 | 26/05/2026 | Programação da lista de exercício [Listas](https://github.com/infoweb-logica/13-notas_de_aula-11-python/blob/main/lista.md) |
 | 2.05 | 28/05/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
 | 2.06 | 02/06/2026 | correção e entrega da avaliação |
-| 2.07 | 09/06/2026 | programando exercícios |
-| 2.08 | 11/06/2026 | programando exercícios |
+| 2.07 | 09/06/2026 | obmep |
+| 2.08 | 11/06/2026 | obi (4) |
 | 2.09 | 13/06/2026 | **sábado**<br />programando exercícios |
 | 2.10 | 16/06/2026 | programando exercícios |
-| 2.11 | 18/06/2026 | programando exercícios |
+| 2.11 | 18/06/2026 | aula da profa. silvia |
 | 2.12 | 20/06/2026 | **sábado**<br />programando exercícios |
 | 2.13 | 23/06/2026 | programando exercícios |
 | 2.14 | 25/06/2026 | programando exercícios |

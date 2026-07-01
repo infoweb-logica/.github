@@ -57,7 +57,7 @@
 | 2.13 | 23/06/2026 | programando exercícios |
 | 2.14 | 25/06/2026 | programando exercícios |
 | 2.15 | 30/06/2026 | programando exercícios |
-| 2.16 | 02/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
+| 2.16 | 02/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial (4) |
 | 2.17 | 07/07/2026 | correção e entrega da avaliação |
 | 2.18 | 09/07/2026 | wtec |
 | 2.19 | 14/07/2026 | :pushpin: _avaliação_ :two:.:three: presencial |

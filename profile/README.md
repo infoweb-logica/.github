@@ -58,10 +58,10 @@
 | 2.14 | 25/06/2026 | programando exercícios |
 | 2.15 | 30/06/2026 | programando exercícios |
 | 2.16 | 02/07/2026 | :pushpin: [_avaliação_ :two:.:two: presencial (4)](https://github.com/infoweb-logica/2026-2-02-Atividade_Avaliativa) |
-| 2.17 | 07/07/2026 | correção e entrega da avaliação |
-| 2.18 | 09/07/2026 | wtec |
-| 2.19 | 14/07/2026 | :pushpin: _avaliação_ :two:.:three: presencial |
-| 2.20 | 16/07/2026 | **fim do 2o bimestre**<br />entrega de resultado do bimestre |
+| 2.17 | 07/07/2026 | WTEC 2026.1 |
+| 2.18 | 09/07/2026 | aula da profa. silvia |
+| 2.19 | 14/07/2026 | programando exercícios |
+| 2.20 | 16/07/2026 | **fim do 2o bimestre**<br />:pushpin: _avaliação_ :two:.:three: presencial |
 | 3.01 | 11/08/2026 | **3o bimestre** |
 | 3.02 | 13/08/2026 | a definir |
 | 3.03 | 18/08/2026 | a definir |

@@ -61,9 +61,9 @@
 | 2.17 | 07/07/2026 | WTEC 2026.1 |
 | 2.18 | 09/07/2026 | aula da profa. silvia |
 | 2.19 | 14/07/2026 | programando exercícios |
-| 2.20 | 16/07/2026 | **fim do 2o bimestre**<br />:pushpin: _avaliação_ :two:.:three: presencial |
+| 2.20 | 16/07/2026 | **fim do 2o bimestre**<br />:pushpin: [_avaliação_ :two:.:three: presencial](https://github.com/infoweb-logica/2026-2-03-Atividade_Avaliativa) |
 | 3.01 | 11/08/2026 | **3o bimestre** |
-| 3.02 | 13/08/2026 | a definir |
+| 3.02 | 13/08/2026 | Revisão com debug no visual studio code |
 | 3.03 | 18/08/2026 | a definir |
 | 3.04 | 20/08/2026 | a definir |
 | 3.05 | 25/08/2026 | a definir |

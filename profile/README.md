@@ -62,10 +62,10 @@
 | 2.18 | 09/07/2026 | aula da profa. silvia |
 | 2.19 | 14/07/2026 | programando exercícios |
 | 2.20 | 16/07/2026 | **fim do 2o bimestre**<br />:pushpin: [_avaliação_ :two:.:three: presencial](https://github.com/infoweb-logica/2026-2-03-Atividade_Avaliativa) |
-| 3.01 | 11/08/2026 | **3o bimestre** |
-| 3.02 | 13/08/2026 | Revisão com debug no visual studio code |
+| 3.01 | 11/08/2026 | **3o bimestre**<br>Revisão com debug no visual studio code |
+| 3.02 | 13/08/2026 | Não houve aula |
 | 3.03 | 18/08/2026 | Função recursiva |
-| 3.04 | 20/08/2026 | a definir |
+| 3.04 | 20/08/2026 | OBI - 2a Fase |
 | 3.05 | 25/08/2026 | a definir |
 | 3.06 | 27/08/2026 | a definir |
 | 3.07 | 01/09/2026 | :pushpin: _avaliação_ :three:.:one: presencial |

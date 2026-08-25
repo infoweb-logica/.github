@@ -66,8 +66,8 @@
 | 3.02 | 13/08/2026 | Não houve aula |
 | 3.03 | 18/08/2026 | Função recursiva |
 | 3.04 | 20/08/2026 | OBI - 2a Fase |
-| 3.05 | 25/08/2026 | a definir |
-| 3.06 | 27/08/2026 | a definir |
+| 3.05 | 25/08/2026 | Programando exercícios<br>Jogos intercampi |
+| 3.06 | 27/08/2026 | Programando exercícios<br>Jogos intercampi |
 | 3.07 | 01/09/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
 | 3.08 | 03/09/2026 | entrega e correção da avaliação |
 | 3.09 | 08/09/2026 | a definir |

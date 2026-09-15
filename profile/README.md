@@ -69,11 +69,11 @@
 | 3.05 | 25/08/2026 | Programando exercícios<br>Jogos intercampi |
 | 3.06 | 27/08/2026 | Programando exercícios<br>Jogos intercampi |
 | 3.07 | 01/09/2026 | [pré atividade avaliativa](https://github.com/infoweb-logica/2026-09-01-Exercicio/) |
-| 3.08 | 03/09/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
-| 3.09 | 08/09/2026 | entrega e correção da avaliação |
-| 3.10 | 10/09/2026 | a definir |
-| 3.11 | 15/09/2026 | a definir |
-| 3.12 | 17/09/2026 | a definir |
+| 3.08 | 03/09/2026 | Prática de programação em lab |
+| 3.09 | 08/09/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
+| 3.10 | 10/09/2026 | entrega e correção da avaliação |
+| 3.11 | 15/09/2026 | Prática de programação em lab<br>JIF NE |
+| 3.12 | 17/09/2026 | Prática de programação em lab<br>JIF NE |
 | 3.13 | 22/09/2026 | a definir |
 | 3.14 | 24/09/2026 | a definir |
 | 3.15 | 26/09/2026 | **sábado**<br />a definir |

@@ -75,9 +75,9 @@
 | 3.11 | 15/09/2026 | Prática de programação em lab<br>JIF NE |
 | 3.12 | 17/09/2026 | Prática de programação em lab<br>JIF NE |
 | 3.13 | 22/09/2026 | Prática de programação em lab |
-| 3.14 | 24/09/2026 | [Introdução a pygame]() |
+| 3.14 | 24/09/2026 | pygame [Introdução a pygame](https://github.com/infoweb-logica/pygame/blob/main/notas_de_aula/01-pygame-introducao.md) |
 | 3.15 | 26/09/2026 | **sábado**<br />Meu primeiro jogo pygame |
-| 3.16 | 29/09/2026 | a definir |
+| 3.16 | 29/09/2026 | pygame [placar e eventos](https://github.com/infoweb-logica/pygame/blob/main/notas_de_aula/02-pygame-placar.md) |
 | 3.17 | 01/10/2026 | :pushpin: _avaliação_ :three:.:two: presencial |
 | 3.18 | 06/10/2026 | entrega e correção da avaliação |
 | 3.19 | 08/10/2026 | a definir |

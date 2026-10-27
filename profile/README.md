@@ -86,7 +86,7 @@
 | 4.01 | 15/10/2026 | **4o bimestre** |
 | 4.02 | 20/10/2026 | a definir |
 | 4.03 | 22/10/2026 | a definir |
-| 4.04 | 27/10/2026 | a definir |
+| 4.04 | 27/10/2026 | grupos [3 e 4 horários](https://github.com/infoweb-logica/2026-pygame-grupo-a/) e [5 e 6 horários]() |
 | 4.05 | 29/10/2026 | a definir |
 | 4.06 | 03/11/2026 | a definir |
 | 4.07 | 05/11/2026 | a definir |
